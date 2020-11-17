@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# Plinko-with-score
+Here I have created the plinko game with score in it.{project (WhitehatJR) C33}
